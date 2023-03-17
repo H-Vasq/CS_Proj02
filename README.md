@@ -1,4 +1,4 @@
-# [Coursework Project #1 (click here to go to site)](https://h-vasq.github.io/CS_Proj02/)
+# [Coursework Project #1 (click here to go to site)](https://h-vasq.github.io/Coursework-Proj01-Gallery/)
 HTML CSS Project #1
 
 
