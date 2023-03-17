@@ -2,6 +2,6 @@
 HTML CSS Project #1
 
 
-Site Preview:
+Site Image Preview:
 
 ![Preview](https://user-images.githubusercontent.com/123214691/225981870-e9c5e5fa-eae0-4c4d-b15c-ff8c2b4fa149.png)
